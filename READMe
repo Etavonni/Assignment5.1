@@ -1,15 +1,11 @@
 Summary of findings:
 --------------------
-Drivers who are more likely to accept bar coupons:
-# 1. Visit bars more often
-# 2. Don't have kids as passengers
-# 3. Have relatively low income (less than $50,000)
-# 4. Visit cheaper restaurants more often
+Drivers who visit bars more often are more likely to accept bar coupons.
+Similarly, drivers who visit coffee houses more frequently will accept coffee house coupons.
 
-# Conclusion: Drivers who are more likely to accept coffee house coupons
-# 1. Visit a coffee house one or more times per month
-# 2. Have kids as passanger
-# 3. Have relatively lower income
-# 4. Are below the age of 30
+Whether the driver is less than 25 years of age has negligible impact on acceptance rates. There is no major impact of having a kid as a passanger on acceptance rate. There is no major impact of occupation in farming, fishing or forestry on acceptance rates.
+----------------------------------------------------------------------
 
 URL to Jupyter Notebook : https://github.com/Etavonni/Assignment5.1/blob/main/Assignment5_1.ipynb
+
+-----------------------------------------------------------------------
